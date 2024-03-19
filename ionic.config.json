@@ -1,0 +1,7 @@
+{
+  "name": "NubankClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
